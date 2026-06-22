@@ -18,10 +18,5 @@ This project explores core React hooks like `useState`, `useEffect`, and more. P
 2. Install dependencies:
    ```bash
    npm install
+   ```
 
-
-
-
-   Learn More
-React Hooks Documentation
-Vite Documentation
