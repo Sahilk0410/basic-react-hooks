@@ -1,16 +1,20 @@
-# Basic React Hooks
+# Password Generator
 
-A simple React project demonstrating the fundamentals of React hooks.
+A React app that generates secure passwords with customizable options. Built to learn React hooks in action.
 
-## About
+## How It Works
 
-This project explores core React hooks like `useState`, `useEffect`, and more. Perfect for learning how hooks work in modern React applications.
+- Generates random passwords 
+- Uses `useState` for managing password settings
+- Uses `useEffect` to update when settings change
 
 ## Features
 
-- React hooks examples
-- Vite for fast development
-- Minimal and clean code structure
+- Generate random passwords
+- Choose password length
+- Include/exclude character types
+- Copy to clipboard
+
 
 ## Installation
 
